@@ -16,7 +16,7 @@ int main()
 	p = (130 * 500) % n;
 
 	cout << "Bus " << a << " pilnu akvariumu" << endl;
-	cout << "Paskutiniame akvarium liks " << p << " zuvu";
+	cout << "Paskutiniame akvariume liks " << p << " zuvu";
 
 
 	return 0;
