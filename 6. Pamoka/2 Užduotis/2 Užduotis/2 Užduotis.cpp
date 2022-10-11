@@ -1,4 +1,4 @@
-// Šindlerija (19 psl.)
+// Å indlerija (19 psl.)
 #include <iostream>
 using namespace std;
 
@@ -12,8 +12,8 @@ int main()
 	cout << "Kiek akvariume telpa zuvu? ";
 	cin >> n;
 
-	a = (130 * 500) / n;
-	p = (130 * 500) % n;
+	a = (k * 500) / n;
+	p = (k * 500) % n;
 
 	cout << "Bus " << a << " pilnu akvariumu" << endl;
 	cout << "Paskutiniame akvariume liks " << p << " zuvu";
