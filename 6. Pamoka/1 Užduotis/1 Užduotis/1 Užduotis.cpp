@@ -15,8 +15,8 @@ int main()
 	cout << "Kiek dienu vaziavo i turgu? ";
 	cin >> d;
 
-	k = ((n - m) * 4) / m;
-	a = ((n - m) * 4) % m;
+	k = ((n - m) * d) / m;
+	a = ((n - m) * d) % m;
 
 	cout << "Liko " << k << " pilnu didesniu deziu" << endl;
 	cout << "Liko " << a << " mazesniu, nesupakuotu deziu";
