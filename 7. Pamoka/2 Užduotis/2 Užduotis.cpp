@@ -21,7 +21,7 @@ int main()
     cout << "Ivesk e: ";
     cin >> e; //ivedimai
 
-    p = (a * 10000) + (b * 1000) + c * (100 + d) * (10 + e); //skaiciuojam ats
+    p = (a * 10000) + (b * 1000) + (c * 100) + (d * 10) + e; //skaiciuojam ats
 
     cout << "Penkiazenklis skaicius: " << p; //atsakymas
 
