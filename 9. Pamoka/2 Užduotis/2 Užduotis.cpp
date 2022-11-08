@@ -1,5 +1,6 @@
 ﻿//Vandens saugykla (25 psl.)
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main()
@@ -18,7 +19,7 @@ int main()
 
     p = v / (n * vv); //skaiciuojamas ats
 
-    cout << "Vandens uzteks " << p << " paroms"; //spausdinamas ats
+    cout << "Vandens uzteks " << fixed << setprecision(2) << p << " paroms"; //spausdinamas ats
 
     return 0;
 }
