@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-    double ckgkaina, suma;
-    int k, n; //kintamieji
+    double ckgkaina, suma, k;
+    int n; //kintamieji
 
     cout << "Kokia cukraus kilogramo kaina? ";
     cin >> ckgkaina;
