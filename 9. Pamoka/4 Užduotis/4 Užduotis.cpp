@@ -1,5 +1,6 @@
 ﻿//Medaus kainos (26 psl.)
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main()
@@ -29,7 +30,7 @@ int main()
 
     s = ((a * aa) + (b * bb) + (c * cc)) - n; //skaicuojamas ats
 
-    cout << "Regina sumokes " << s << " Eur"; //spausdinamas ats;
+    cout << "Regina sumokes " << fixed << setprecision(2) << s << " Eur"; //spausdinamas ats;
 
     return 0;
 }
