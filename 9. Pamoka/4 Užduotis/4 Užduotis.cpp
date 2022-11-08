@@ -30,7 +30,7 @@ int main()
 
     s = ((a * aa) + (b * bb) + (c * cc)) - n; //skaicuojamas ats
 
-    cout << "Regina sumokes " << fixed << setprecision(2) << s << " Eur"; //spausdinamas ats;
+    cout << "Regina sumokes " << fixed << setprecision(2) << s << " Eur"; //spausdinamas ats
 
     return 0;
 }
