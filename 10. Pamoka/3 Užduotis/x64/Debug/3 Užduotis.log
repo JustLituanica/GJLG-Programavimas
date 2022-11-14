@@ -1,0 +1,17 @@
+﻿  3 Užduotis.cpp
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(10,13): warning C4566: character represented by universal-character-name '\u0173' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(10,13): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(10,13): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(10,13): warning C4566: character represented by universal-character-name '\u0163' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(13,13): warning C4566: character represented by universal-character-name '\u0173' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(13,13): warning C4566: character represented by universal-character-name '\u012F' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(13,13): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(13,13): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(13,13): warning C4566: character represented by universal-character-name '\u0163' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(16,13): warning C4566: character represented by universal-character-name '\u0173' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(16,13): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(21,13): warning C4566: character represented by universal-character-name '\u0117' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(21,13): warning C4566: character represented by universal-character-name '\u0163' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(21,13): warning C4566: character represented by universal-character-name '\u012F' cannot be represented in the current code page (1252)
+C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\3 Užduotis.cpp(21,13): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+  3 Užduotis.vcxproj -> C:\Users\MSI\Desktop\C++\Mokykla\GJLG-Programavimas\10. Pamoka\3 Užduotis\x64\Debug\3 Užduotis.exe
