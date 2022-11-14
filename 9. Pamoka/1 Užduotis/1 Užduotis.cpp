@@ -1,11 +1,12 @@
 ﻿//Cukrus (25 psl.) Veiksmai su realiaisiais skaiciais
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main()
 {
-    double ckgkaina, suma;
-    int k, n; //kintamieji
+    double ckgkaina, suma, k;
+    int n; //kintamieji
 
     cout << "Kokia cukraus kilogramo kaina? ";
     cin >> ckgkaina;
@@ -18,7 +19,7 @@ int main()
 
     suma = (k * ckgkaina) * n; //skaiciuojamas ats
 
-    cout << "Seima uz perkama cukru sumokes " << suma << " euru"; //spausdinamas ats
+    cout << "Seima uz perkama cukru sumokes " << fixed << setprecision(2) << suma << " euru"; //spausdinamas ats
 
     return 0;
 }

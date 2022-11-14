@@ -1,5 +1,6 @@
 ﻿// Zvejo laimikis (25 psl.)
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main()
@@ -27,7 +28,7 @@ int main()
 
     z = (k * kk) + (e * ek) + (a * ak); //skaiciuojamas ats
 
-    cout << "Zvejys pagavo " << z << " kilogramus zuvu"; //spausdinamas ats
+    cout << "Zvejys pagavo " << fixed << setprecision(2) << z << " kilogramus zuvu"; //spausdinamas ats
 
     return 0;
 }
