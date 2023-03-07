@@ -14,7 +14,7 @@ int main()
         cout << "p: ";
         cin >> p; //ivedimai
 
-        if (p >= 650)
+        if (p > 650)
         {
             m++; //skaiciuojam ats
         }
