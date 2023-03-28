@@ -13,7 +13,7 @@ int main() {
   for (int i = 0; i < n; i++)
     {
       s = s + k;
-      k = k * 2; //skaiciuojam ats
+      k = k * 2; //skaiciuojam atsakyma
     }
 
   cout << "Iskris " << s << " snaigiu"; //spausdinam ats
