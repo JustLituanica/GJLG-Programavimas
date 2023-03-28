@@ -1,4 +1,4 @@
-//Snaigės uţ lango (69 psl.)
+//Snaigės už lango (69 psl.)
 #include <iostream>
 using namespace std;
 
