@@ -23,7 +23,7 @@ int main() {
         }
     }
 
-cout << "Suplojimų bus: " << a << endl;
+  cout << "Suplojimų bus: " << a << endl;
   cout << "Spragtelėjimų bus: " << b; //spausdinamas ats
   
   return 0;
