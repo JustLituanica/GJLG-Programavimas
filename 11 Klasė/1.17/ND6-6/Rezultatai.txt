@@ -1,0 +1,8 @@
+================================================
+Maxima
+Prekes pav.        Kiekis     Kaina     Suma    
+================================================
+================================================
+Brangiausia sio tiekejo preke: Bulviniai Blynai   
+Sios prekes parduotuveje yra: 5 vienetu
+================================================

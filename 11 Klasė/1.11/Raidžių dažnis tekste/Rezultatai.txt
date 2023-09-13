@@ -1,0 +1,14 @@
+
+======== Raides esancios sarase ========
+
+a 64    b  9    c  2    d  6    e 22    
+g 12    h  1    i 84    j  6    k 28    
+l 24    m 23    n 30    o 23    p 13    
+r 28    s 50    t 23    u 21    v  9    
+y  7    z  1    
+
+======== Raides kuriu nera sarase ========
+
+f   0    q   0    w   0    x   0    ?   0    
+?   0    ?   0    ?   0    ?   0    š   0    
+?   0    ?   0       0    

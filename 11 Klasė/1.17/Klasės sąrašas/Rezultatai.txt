@@ -1,0 +1,10 @@
+Etika pasirinkusieji mokiniai
+====================================
+    Mokinys                Dalykas  
+====================================
+1. Baravykas Algis          Etika
+2. Eglaite Ramune           Etika
+3. Gaurius Svajunas         Etika
+4. Lepsyte Barbora          Etika
+5. Smalsuole Marceliuke     Etika
+====================================

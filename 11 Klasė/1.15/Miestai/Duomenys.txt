@@ -1,0 +1,11 @@
+10
+Trakai                  Lietuva
+Madridas                Ispanija
+Barselona               Ispanija
+Roma                    Italija
+Paryzius                Prancuzija
+Saragosa                Ispanija
+Genuja                  Italija
+Tartu                   Estija
+Kurdirkos Naumiestis    Lietuva
+Venecija                Italija

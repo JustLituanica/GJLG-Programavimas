@@ -1,0 +1,23 @@
+﻿// Dviejų skaičių suma
+# include <fstream>
+using namespace std;
+
+int main()
+{
+	int a, b;       // du sveikieji skaičiai
+	int s;          // a ir b suma
+
+	ifstream fd("Duomenys.txt");
+	fd >> a >> b;   // perskaitomi du sveikieji skaičiai
+
+	fd.close();
+
+	s = a + b;      // skaičiuojama a ir b suma
+
+	ofstream fr("Rezultatai.txt");
+	fr << s;
+
+	fr.close();
+
+	return 0;
+}

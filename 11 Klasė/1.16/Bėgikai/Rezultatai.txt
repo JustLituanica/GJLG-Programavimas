@@ -1,0 +1,11 @@
+             Begiku sarasas
+=========================================
+Vardas ir            Parodytas    Begimo 
+pavarde              laikas       takelis
+=========================================
+Algis Skrajunas      0 : 56          5
+Algis Trecias        0 : 59          4
+Petras Didysis       1 : 25          3
+Petras Pirmas        2 : 25          2
+Kasparas Eiklusis    2 : 45          1
+=========================================

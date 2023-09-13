@@ -1,0 +1,4 @@
+Raidziu yra: 226
+Skaitmenu yra: 21
+Tarpo simboliu yra: 51
+Kitokiu simboliu yra: 14

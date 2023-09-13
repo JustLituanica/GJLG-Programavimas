@@ -1,0 +1,10 @@
+Mokiniu, surinkusiu ne maziau kaip 15 tasku, sarasas
+========================
+    Vardas    Taskai    
+========================
+ Petras          20        
+ Algis           18        
+ Kasparas        26        
+========================
+Klases mokinys vidutiniskai surinko tasku: 17
+Atrinkti mokiniai vidutiniskai surinko tasku: 21
