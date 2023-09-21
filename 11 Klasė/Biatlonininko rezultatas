@@ -1,0 +1,31 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+const char CDfv[] = "Duomenys.txt";
+const char CRfv[] = "Rezultatai.txt";
+
+
+int main()
+{
+	int n, x, b;
+	int t, k;
+	int laikas = 0;
+
+	ifstream fd(CDfv);
+	ofstream fr(CRfv);
+
+	fd >> n >> x >> b;
+
+	for (int i = 0; i < n; i++)
+	{
+		fd >> t >> k;
+
+		laikas = (laikas + t) + (k * b);
+	}
+
+	fr << laikas;
+
+	return 0;
+}
