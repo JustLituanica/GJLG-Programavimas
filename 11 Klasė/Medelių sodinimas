@@ -1,0 +1,42 @@
+#include <iostream>
+#include <iomanip>
+#include <fstream>
+
+using namespace std;
+
+const char CDfv[] = "Duomenys.txt";
+const char CRfv[] = "Rezultatai.txt";
+
+int main()
+{
+    double n, m, x, y;
+    double s = 0, min = 0;
+
+    ifstream fd(CDfv);
+    fd >> n;
+    fd >> x;
+    fd >> y;
+
+    for (int i = 1; i <= n; i++)
+    {
+        fd >> m;
+        s = s + m;
+
+        if (m >= x)
+        {
+            min++;
+        }
+    }
+
+    double kart = (s / y);
+
+    ofstream fr(CRfv);
+
+    fr << s << endl;
+    fr << min << endl;
+    fr << setprecision(1) << kart << endl;
+
+    fr.close();
+
+    return 0;
+}
