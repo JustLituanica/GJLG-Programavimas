@@ -1,0 +1,29 @@
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+const char CDfv[] = "Duomenys.txt";
+const char CRfv[] = "Rezultatai.txt";
+
+int main()
+{
+    int n, t, suma = 0;
+
+    ifstream fd(CDfv);
+    ofstream fr(CRfv);
+
+    fd >> n;
+
+    for (int i = 0; i < n; i++)
+    {
+        fd >> t;
+
+        suma = suma + t;
+    }
+
+    fr << suma << endl;
+    fr << suma / n;
+
+    return 0;
+}
