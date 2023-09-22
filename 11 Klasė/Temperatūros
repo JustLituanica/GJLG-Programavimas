@@ -1,0 +1,36 @@
+#include <iostream>
+#include <fstream>
+#include <iomanip>
+
+using namespace std;
+
+const char CDfv[] = "Duomenys.txt";
+const char CRfv[] = "Rezultatai.txt";
+
+
+int main()
+{
+	int n;
+	double temp, tempVid;
+
+	ifstream fd(CDfv);
+	ofstream fr(CRfv);
+
+	fd >> n;
+
+	for (int i = 0; i < n; i++)
+	{
+		tempVid = 0;
+
+		for (int j = 0; j < 7; j++)
+		{
+			fd >> temp;
+
+			tempVid = tempVid + temp;
+		}
+
+		fr << i + 1 << " " << setprecision(4) << tempVid / 7 << endl;
+	}
+
+	return 0;
+}
